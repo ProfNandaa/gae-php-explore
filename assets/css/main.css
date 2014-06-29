@@ -1,0 +1,19 @@
+body{
+	font-family: sans-serif;
+	color: #555;
+}
+
+/*forms */
+textarea{
+	border:solid 1px #aaa;
+	margin: 5px 0;
+	padding: 3px;
+}
+
+input[type=submit]{
+	background: #555;
+	font-weight: bold;
+	color: #fefefe;
+	border: none;
+	padding: 5px;
+}

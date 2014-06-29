@@ -11,7 +11,9 @@ if ($user) {
   	echo "<li><strong>$key</strong> : $value </li>";
   }
 
+  echo "<pre>";
   var_dump($user);
+  echo "</pre>";
 }
 else {
   header('Location: ' . UserService::createLoginURL($_SERVER['REQUEST_URI']));
