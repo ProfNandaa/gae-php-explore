@@ -3,7 +3,7 @@ gae-php-explore
 
 Exploring running PHP on Google App Engine.
 
-###Installing PHP 5.4 on Linux
+###Installing PHP 5.4 on Linux (Ubuntu 12.04)
 
 Add this ppa
 ```
@@ -14,7 +14,6 @@ Then update and upgrade, upgrade will automatically install latest 5.4.x version
 
 ```
 sudo apt-get update
-
 ```
 
 Then install
@@ -22,7 +21,7 @@ Then install
 sudo apt-get install php5-cgi
 ```
 
-Running your scripts
+Running your scripts, example:
 
 ```
 google_appengine/dev_appserver.py --php_executable_path="/usr/bin/php-cgi" hello/
@@ -30,3 +29,8 @@ google_appengine/dev_appserver.py --php_executable_path="/usr/bin/php-cgi" hello
 
 ##Basics
 First, I start off my following the [Getting Started Guide](https://developers.google.com/appengine/docs/php/gettingstarted/helloworld) provided by Google Developers.
+
+##References:
+* [Getting Started Guide](https://developers.google.com/appengine/docs/php/gettingstarted/helloworld)
+* [http://googlecloudplatform.blogspot.com/2013/07/google-app-engine-hello-world-using.html]
+* 
