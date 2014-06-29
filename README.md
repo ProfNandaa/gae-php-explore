@@ -27,10 +27,9 @@ Running your scripts, example:
 google_appengine/dev_appserver.py --php_executable_path="/usr/bin/php-cgi" hello/
 ```
 
-##Basics
+###Basics
 First, I start off my following the [Getting Started Guide](https://developers.google.com/appengine/docs/php/gettingstarted/helloworld) provided by Google Developers.
 
-##References:
+###References
 * [Getting Started Guide](https://developers.google.com/appengine/docs/php/gettingstarted/helloworld)
-* [http://googlecloudplatform.blogspot.com/2013/07/google-app-engine-hello-world-using.html]
-* 
+* http://googlecloudplatform.blogspot.com/2013/07/google-app-engine-hello-world-using.html
