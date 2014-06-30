@@ -5,12 +5,12 @@ Exploring running PHP on Google App Engine.
 
 ###Installing PHP 5.4 on Linux (Ubuntu 12.04)
 
-Add this ppa
+Add this repository
 ```
 sudo add-apt-repository ppa:ondrej/php5
 ```
 
-Then update and upgrade, upgrade will automatically install latest 5.4.x version of php
+Then update and upgrade, upgrade will automatically install latest 5.4.x version of PHP
 
 ```
 sudo apt-get update

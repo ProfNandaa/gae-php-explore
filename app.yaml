@@ -1,4 +1,4 @@
-application: hello-codeigniter
+application: shining-weft-626
 version: 1
 runtime: php
 api_version: 1
@@ -18,7 +18,4 @@ handlers:
   script: form.php
 
 - url: /
-  script: index.php
-
-- url: /(.+)
   script: index.php
