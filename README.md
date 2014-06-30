@@ -28,7 +28,7 @@ google_appengine/dev_appserver.py --php_executable_path="/usr/bin/php-cgi" hello
 ```
 
 ###Basics
-First, I start off my following the [Getting Started Guide](https://developers.google.com/appengine/docs/php/gettingstarted/helloworld) provided by Google Developers.
+First, I start off by following the [Getting Started Guide](https://developers.google.com/appengine/docs/php/gettingstarted/helloworld) provided by Google Developers.
 
 ###References
 * [Getting Started Guide](https://developers.google.com/appengine/docs/php/gettingstarted/helloworld)
