@@ -14,8 +14,8 @@ handlers:
 - url: /assets/images
   static_dir: assets/images
 
-- url: /form
+- url: /forms
   script: form.php
-  
+
 - url: /
   script: index.php
