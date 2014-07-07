@@ -30,6 +30,15 @@ google_appengine/dev_appserver.py --php_executable_path="/usr/bin/php-cgi" hello
 ###Basics
 First, I start off by following the [Getting Started Guide](https://developers.google.com/appengine/docs/php/gettingstarted/helloworld) provided by Google Developers.
 
+###Working with CloudSQL
+Following guides: [Getting Started with Google Cloud SQL](https://developers.google.com/cloud-sql/docs/getting-started) and
+[Using Google Cloud SQL with the App Engine PHP SDK](https://developers.google.com/appengine/docs/php/cloud-sql/)
+
+Few things to note:
+* Put my SQL file(s) in /xfiles folder and used ```source``` in MySQL Client
+* 
+
+
 ###References
 * [Getting Started Guide](https://developers.google.com/appengine/docs/php/gettingstarted/helloworld)
 * http://googlecloudplatform.blogspot.com/2013/07/google-app-engine-hello-world-using.html

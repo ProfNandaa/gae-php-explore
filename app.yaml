@@ -17,5 +17,8 @@ handlers:
 - url: /forms
   script: form.php
 
+- url: /dbtest
+  script: db.php
+
 - url: /
   script: index.php
